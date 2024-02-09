@@ -14,12 +14,6 @@
                 </a>
                 <figcaption>Gawki 2023</figcaption>
             </figure>
-            <figure>
-                <a href="https://gawki.net/" target="_blank" rel="noreferrer">
-                    <img alt="gawki website 2023" src="https://gawki.net/wp-content/uploads/2023/03/main-banner.webp">
-                </a>
-                <figcaption>Gawki 2023</figcaption>
-            </figure>
         </SlideGallery>
     </main>
 </article>

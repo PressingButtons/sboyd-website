@@ -1,7 +1,4 @@
 <style>
-    :global(html) {
-        scroll-behavior: smooth;
-    }
 
     :global(body) {
         background-color: var(--main-background, white);
@@ -18,7 +15,10 @@
         --accent-1: #22A;
     }
 
-    :global()
+    :global(h1, h2, h3, h4, h5, h6, p, a ) {
+        margin: 0;
+        padding: 8px;
+    }
 
     :global(body.dark) {
         --main-background: #333;
@@ -76,14 +76,13 @@
         max-width: 100%;
         width: var(--page-width);
     }
-
 </style>
 
 <script lang="ts">
     import { onMount } from "svelte";
 	import Header from "./_header.svelte";
 	import Themes from "./_themes.svelte";
-
+    import "./style.css";
 
     onMount(( ) => {
         //document.body.classList.add('dark');
