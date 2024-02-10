@@ -1,5 +1,6 @@
 <script>
 	import Contact from "./_contact.svelte";
+    import pdf from '$lib/documents/Resume 2023-2.pdf';
 </script>
 
 <style>
@@ -17,6 +18,7 @@
     <main>
         <p>Salutations! Thank you for visiting my website. From Here you can find examples of my work and musings.</p>
         <p>This also serves as a reflection of developer journey, so expect updates and features down the line.</p>
+        <p>You can view more regarding my work history and contact information <a href="{pdf}" target="_blank">here</a></p>
         <!--
             <Contact></Contact>
         -->
