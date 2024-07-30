@@ -12,7 +12,7 @@
 <article id="introduction">
     <header>
         <h2>Hi Everybody!</h2>
-        <h4><span>Hi Dr.Nick</span> I'm Steven Boyd a Freelance Web-developer</h4>
+        <h4>I'm Steven Boyd a Freelance Web-developer</h4>
         <h6>Learning and growing one project at a time.</h6>
     </header>
     <main>
