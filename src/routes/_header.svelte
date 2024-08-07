@@ -69,6 +69,7 @@
             <a href="#about">About</a>
             <a href="#skills">Skills</a>
             <a href="#websites">Portfolio</a>
+            <a href="/resume.pdf">Resume</a>
         </nav>
     </div>
 </header>

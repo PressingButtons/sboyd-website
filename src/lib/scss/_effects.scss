@@ -1,0 +1,20 @@
+.border_expand {
+    position: relative;
+    display: inline-block;
+}
+
+.border_expand:after {
+    position: absolute;
+    content: ''; 
+    left: 50%;
+    width: 0; 
+    bottom: 0;
+    height: 2px;
+    background-color: rgb(var(--foreground-color));
+    transition: all 500ms ease-in-out;
+}
+
+.border_expand:hover::after {
+    width: 100%;
+    margin-left: -50%;
+}

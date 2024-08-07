@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Website Revamp",
+        "date": "4/22/2024",
+        "parts": [
+            {
+                "type": "paragraph",
+                "value": [
+                    "With a bit more knowledge about svelte under my belt, I decided to follow through with an upgrade of sorts for this webiste. Complete with this here blog.",
+                    "There was a bit of agony going forward with publishing this new build. Could I really say I added and polished everything I wanted to a tee.",
+                    "But that's the crux of many a project, going in with what you have and in cases like these, have your work face the world."
+                ]
+            },
+            {
+                "type": "paragraph",
+                "value": [
+                    "Butterflies aside, this is still a labor of love and the culmination of what has defined me thus far. I can honeslty say that I have always had creative ambitions.",
+                    "I still hold onto them too. As painful as it may be, the first steps in the journey puts into perspective just how vast your pursuits may be.",
+                    "And yet, the first steps must be taken to get anything done at all. I am committed to putting myself out there and sharpen my image while doing so."
+                ]
+            },
+            { "type": "header", "value": ["So What's the plan?"] },
+            {}
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+:root {
+    --color-light: 255, 240, 200;
+    --color-dark: 20, 20, 20
+}
+
+[data-user-theme="light"] {
+    --background-color: var(--color-light);
+    --foreground-color: var(--color-dark);
+}
+
+[data-user-theme="dark"] {
+    --background-color: var(--color-dark);
+    --foreground-color: var(--color-light);
+}
+
+body {
+    background-color: rgb(var(--background-color));
+    color: rgb(var(--foreground-color));
+}
+

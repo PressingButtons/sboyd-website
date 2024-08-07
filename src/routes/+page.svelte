@@ -1,5 +1,4 @@
 <script>
-    import Themebutton from "$lib/components/_ThemeButton.svelte";
 	import About from "./_about.svelte";
 	import Introduction from "./_introduction.svelte";
 	import Projects from "./_projects.svelte";

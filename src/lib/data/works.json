@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Gawki",
+        "href": "https://gawki.net",
+        "image": "/images/gawki.webp",
+        "description": "Illustrator, Designer, Traveling Merchant. A multitude of fanciful artworks and trinkets created by Gawki"
+    },
+    {
+        "title": "CFR Companies",
+        "href": "https://main--cfrdemo.netlify.app",
+        "image": "/images/cfr.webp",
+        "description": "Demo site for CFR Companies, a static build using svelte while working on an ecommerce iteration."
+    },
+    {
+        "title": "SimpleSketchJS",
+        "href": "https://pressingbuttons.itch.io",
+        "image": "/images/simplesketch.webp",
+        "description": "A small project to create a graphical editor using regular javascript."
+    }
+]
